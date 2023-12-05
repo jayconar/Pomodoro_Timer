@@ -20,13 +20,13 @@ This Pomodoro Timer is a simple yet effective time management tool to boost prod
 ![Main Screen](screenshots/Work.png)
 
 ### Break
-![Main Screen](screenshots/short break.png)
+![Main Screen](screenshots/Break.png)
 
 ### Rest
-![Main Screen](screenshots/Long break.png)
+![Main Screen](screenshots/Long_break.png)
 
 ### Sessions Completed
-![Main Screen](screenshots/Three sessions completed.png)
+![Main Screen](screenshots/Sessions_completed.png)
 
 
 ### More Information
